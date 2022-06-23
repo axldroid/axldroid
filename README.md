@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **DevOps & Networking**
 
-- 📝 I regularly write articles on [https://revivehost.com/blog/](https://revivehost.com/blog/)
-
 - 💬 Ask me about **Anything :)**
 
 - 📫 How to reach me **joshuakernelopc@proton.me or kernelOPC#6310**
