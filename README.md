@@ -5,6 +5,7 @@
 
 <img align="right" src="https://lanyard.cnrad.dev/api/875334065899839489?hideTimestamp=true">
 
+- [Website](https://eqxl0.lol)
 - [Twitter](https://twitter.com/eqxl0) 
 - [Twitch](https://www.twitch.tv/eqxl0)
 
