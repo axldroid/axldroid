@@ -9,7 +9,7 @@
 - [Twitch](https://www.twitch.tv/eqxl0)
 
 
-# Work Experience
+## Work Experience
 - CI/CD Experience using GitLab, GitHub & Gitea
 - Kubernetes, Docker & Nomad
 - Ubuntu/Debian/CentOS
